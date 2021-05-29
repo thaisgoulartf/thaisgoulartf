@@ -1,7 +1,9 @@
 ## Hello World, I'm Thais! 
-<img align='right' src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="230">
 
 #### 👩🏻‍💻 About Me 
+
+<img align='right' src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="230">
+
 - 🔭 I’m currently working on Laboratório Bridge
 - :woman_astronaut: I’m currently learning CSS, TypeScript, React, Kotlin and GraphQL
 - 🎓 Information Systems student at <a href="https://ufsc.br/" target="_blank">University of Santa Catarina</a><br>
