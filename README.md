@@ -6,7 +6,7 @@
 I'm a front-end developer with a passion for creating visually appealing and user-friendly web applications. My focus is on building scalable, responsive applications using modern web technologies like React and TypeScript. I enjoy tackling new challenges, always aiming to improve both my coding skills and the user experience of the projects I work on.
 
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/thais-goulart" aria-label="Thais LinkedIn Profile"> 
+  <a href="https://www.linkedin.com/in/thais-goulartf" aria-label="Thais LinkedIn Profile"> 
     <img alt="Linkedin Profile" title="Check my LinkedIn profile" src="https://img.shields.io/badge/Thais-33389e?style=flat-square&logo=Linkedin&logoColor=white"/> 
   </a> 
   <a href="mailto:thaisgoulartf@gmail.com" aria-label="Contact Thais via Email"> 
